@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**bryton-miller/bryton-miller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class computerscience:
+    
+    def __init__(myself):
+        myself.prounouns = ['he', 'him']
+        myself.name = 'Bryton'
+        myself.language = 'English'
+        myself.learning = 'Python'
+
+    def thankyou(myself):
+        print('enjoy your time on my profile')
+
+me = computerscience()
+me.thankyou()
+
+#code idea is from @Zhenye-Na
+```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryton-miller&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
