@@ -14,7 +14,7 @@ class computerscience:
         myself.prounouns = ['he', 'him']
         myself.name = 'Bryton'
         myself.language = 'English'
-        myself.learning = 'Python'
+        myself.learning = 'Python, HTML, CSS'
 
     def thankyou(myself):
         print('enjoy your time on my profile')
